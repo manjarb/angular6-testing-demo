@@ -14,9 +14,6 @@ module.exports = function (config) {
     files: [
 
     ],
-    preprocessors: {
-      './src/test.ts': ['angular-cli']
-    },
     mime: {
       'text/x-typescript': ['ts','tsx']
     },

@@ -1,6 +1,6 @@
 import { TestingDemoPage } from './app.po';
 
-describe('testing-demo App', function() {
+describe('angular-testing-demo App', function() {
   let page: TestingDemoPage;
 
   beforeEach(() => {
