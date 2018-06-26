@@ -1,5 +1,3 @@
-import 'rxjs/add/operator/map';
-
 import { HttpClient } from '@angular/common/http';
 
 export class TodoService {
